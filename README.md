@@ -11,13 +11,10 @@ A comprehensive implementation of baseline and ensemble machine learning models 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Results](#results)
-- [Project Structure](#project-structure)
 - [Visualizations](#visualizations)
 - [Comparison with Paper](#comparison-with-paper)
 - [Future Work](#future-work)
-- [References](#references)
-- [Contributors](#contributors)
-- [License](#license)
+
 
 ## 🎵 Overview
 
