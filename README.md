@@ -277,7 +277,7 @@ The performance gap highlights the advantage of:
    - Random search
    - Bayesian optimization
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - Stanford CS229 Machine Learning course
 - Free Music Archive dataset creators
@@ -287,6 +287,4 @@ The performance gap highlights the advantage of:
 
 
 
-**Note**: This project is for educational purposes and demonstrates baseline machine learning approaches for music genre classification. For production use, consider implementing deep learning architectures as described in the original paper.
 
-⭐ **If you find this project helpful, please consider giving it a star!** ⭐
